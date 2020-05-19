@@ -1,0 +1,19 @@
+{
+  "name": "chock.stocks",
+  "version": "1.0.0",
+  "description": "Investment training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugchock/chock.stocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jugchock/chock.stocks/issues"
+  },
+  "homepage": "https://github.com/jugchock/chock.stocks#readme"
+}
